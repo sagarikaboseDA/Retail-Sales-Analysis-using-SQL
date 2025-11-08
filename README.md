@@ -6,13 +6,13 @@ The main objective behind performing e-commerce analysis on the given dataset is
 
 # Strategic Questions for Business Insights
 **Q1.  Which city and state generate maximum revenue?**
-Q2.  Which city and state generate least revenue?
-Q3.  What is the average delivery time wrt each city?
-Q4.  What is the average delay in delivery of products?
-Q5.  On which Days are maximum orders received?
-Q6.  What is the peak hour of shopping or placing an order?
-Q7.  What is the time difference between purchase made and sent to carrier for delivery. Calculate average difference too.
-Q8.  How many unique sellers are there and to which city does maximum order come from to these sellers?
+**Q2.  Which city and state generate least revenue?**
+**Q3.  What is the average delivery time wrt each city?**
+**Q4.  What is the average delay in delivery of products?**
+**Q5.  On which Days are maximum orders received?**
+**Q6.  What is the peak hour of shopping or placing an order?**
+**Q7.  What is the time difference between purchase made and sent to carrier for delivery. Calculate average difference too.**
+**Q8.  How many unique sellers are there and to which city does maximum order come from to these sellers?**
 Q9.  Customers who placed maximum orders state and city wise.
 Q10. How many customers made at least 01 repeated purchase?
 Q11. How many customers are frequent, medium and low frequency buyers?
